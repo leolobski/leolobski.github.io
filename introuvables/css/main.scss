@@ -4,14 +4,14 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "../_sass";
-        "variables",
-        "mixins",
-        "base",
-        "site-title",
-        "post-block",
-        "post",
-        "footer"
+@import
+        "../_sass/variables",
+        "../_sass/mixins",
+        "../_sass/base",
+        "../_sass/site-title",
+        "../_sass/post-block",
+        "../_sass/post",
+        "../_sass/footer"
 ;
 
 .center-image
