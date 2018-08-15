@@ -2,7 +2,7 @@
 title: The Indispensables Co.
 description: The essentials of modern life you simply can't afford not having.
 baseurl: "/introuvables" # the subpath of your site, e.g. /blog/
-url: "http://leolobski.github.io/introuvables" # the base hostname & protocol for your site
+url: "https://leolobski.github.io/" # the base hostname & protocol for your site
 copyright: '&copy; 2018 Elisa Leppänen & Leo Lobski'
 
 # Build settings
