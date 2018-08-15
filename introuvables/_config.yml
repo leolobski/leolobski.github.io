@@ -16,4 +16,4 @@ material_theme: blue-deep_orange
 #google-analytics-ua: UA-84475574-1
 
 sass:
-    sass_dir: ./_sass
+    sass_dir: /hoosegow/.bundle/ruby/2.4.0/gems/jekyll-theme-primer-0.5.3/_sass
