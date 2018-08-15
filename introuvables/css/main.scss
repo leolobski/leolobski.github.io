@@ -5,13 +5,13 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "../_sass/variables.scss",
-        "../_sass/mixins",
-        "../_sass/base",
-        "../_sass/site-title",
-        "../_sass/post-block",
-        "../_sass/post",
-        "../_sass/footer"
+        "variables",
+        "mixins",
+        "base",
+        "site-title",
+        "post-block",
+        "post",
+        "footer"
 ;
 
 .center-image
