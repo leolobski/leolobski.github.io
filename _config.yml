@@ -1,5 +1,5 @@
 # Site settings
-title: The Indispensables Co.
+title: "The Indispensables Co."
 description: The essentials of modern life you simply can't afford not having.
 baseurl: "/introuvables" # the subpath of your site, e.g. /blog/
 url: "https://leolobski.github.io/" # the base hostname & protocol for your site
