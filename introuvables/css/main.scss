@@ -5,13 +5,13 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "~introuvables/_sass/variables",
-        "~introuvables/_sass/mixins",
-        "~introuvables/_sass/base",
-        "~introuvables/_sass/site-title",
-        "~introuvables/_sass/post-block",
-        "~introuvables/_sass/post",
-        "~introuvables/_sass/footer"
+        "variables",
+        "mixins",
+        "base",
+        "site-title",
+        "post-block",
+        "post",
+        "footer"
 ;
 
 .center-image
