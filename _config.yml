@@ -1,17 +1,40 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: "The Indispensables Co."
-description: "The essentials of modern life you simply can't afford not having."
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://leolobski.github.io" # the base hostname & protocol for your site
-copyright: '&copy; 2018 Elisa Leppänen & Leo Lobski'
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "Leo Lobski's homepage"
+#email: your-email@example.com
+description: "My personal webpage"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://leolobski.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+#github_username:  leolobski
 
 # Build settings
 markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
-# Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: blue-deep_orange
-
-# Google Analytics account ID (UA-XXXXXXXX-X)
-
-#google-analytics-ua: UA-84475574-1
-
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
