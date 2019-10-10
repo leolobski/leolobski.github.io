@@ -34,10 +34,10 @@ as well as a series of blog posts explaining quantum logic: <a href="https://and
 Occasionally, I write for the sake of writing (and thinking). Some of the outcomes of this peculiar process can be found here:
 <a href="https://stepintoriver.wordpress.com/">stepintoriver.wordpress.com</a>.
 <br><br>
-My essay was published in the second issue of the <a href="http://philsoc.eu/index.php/journal/">University of Edinburgh Philosophy Society Journal</a>:
+My essay was published in the second issue of the University of Edinburgh Philosophy Society Journal:
 <br>
-<a href="http://philsoc.eu/wp-content/uploads/2018/07/Philosophy-Society-Journal-2017-18.pdf">Statistical Hypothesis Testing in the Context of Hume’s Critique of Induction</a>.
-</p>
+<a href="/files/Philosophy-Society-Journal-2017-18.pdf">Statistical Hypothesis Testing in the Context of Hume’s Critique of Induction</a>.
+<br>
 
 <br><br>
 <h1 style="text-align:left; font-size:110%;">
