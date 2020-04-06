@@ -47,6 +47,9 @@ My essay was published in the second issue of the University of Edinburgh Philos
 </h1>
 <p>
 <a href="https://leolobski.github.io/introuvables/">The Indispensables Co.</a>
+<br>
+<a href="/files/photo-challenge.pdf">Photo challenge game (rules)</a> created together with Elisa Lepp&auml;nen (who also these rules together).
+<br>
 </p>
 
 <br><br>
