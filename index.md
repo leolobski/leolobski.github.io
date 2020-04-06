@@ -19,11 +19,13 @@ I have an undergraduate degree in mathematics from the University of Edinburgh; 
 <br>
 and it was supervised by <a href="https://www.maths.ed.ac.uk/~tl/">Tom Leinster</a>.
 <br><br>
-During the summer of 2017, I did a research project in quantum logic and set theory, the outcomes of which are the report
+Other projects and mathematical writing:
+<br><br>
+<a href="/files/pointless-top.pdf">Reading project in point-free topology</a>, 2019-20.
 <br>
-<a href="/files/summer-project.pdf">The Category of Hilbert Spaces as an Orthogonal Category</a>,
+<a href="/files/path-groupoids.pdf">Project on path categories and weak &omega;-groupoids</a>, 2019-20.
 <br>
-as well as a series of blog posts explaining quantum logic: <a href="https://andinparticularexists.wordpress.com/">andinparticularexists.wordpress.com</a>. This project was supervised by <a href="http://homepages.inf.ed.ac.uk/cheunen/">Chris Heunen</a>.
+<a href="/files/summer-project.pdf">The Category of Hilbert Spaces as an Orthogonal Category</a>, together with a series of blog posts on quantum logic: <a href="https://andinparticularexists.wordpress.com/">andinparticularexists.wordpress.com</a>, 2017.
 </p>
 
 <br><br>
