@@ -11,7 +11,11 @@ The main purpose of this website is to contain my CV, which you can find <a href
 <b>Academic stuff</b>
 </h1>
 <p>
-I'm currently doing a master's degree in <a href="https://msclogic.illc.uva.nl/">logic</a> at the <a href="http://www.illc.uva.nl/">Institute of Logic, Language and Computation</a> in Amsterdam.
+I have a master's degree in <a href="https://msclogic.illc.uva.nl/">logic</a> from the <a href="http://www.illc.uva.nl/">Institute of Logic, Language and Computation</a> in Amsterdam, where I did the Logic and Mathematics track. My MSc thesis can be found at the ILLC website:
+<br>
+<a href="https://eprints.illc.uva.nl/1762/1/MoL-2020-09.text.pdf">Quantum quirks, classical contexts: Towards a Bohrification of effect algebras</a>;
+<br>
+it was co-supervised by <a href="http://homepages.inf.ed.ac.uk/cheunen/">Chris Heunen</a> and <a href="https://staff.fnwi.uva.nl/n.bezhanishvili/">Nick Bezhanishvili</a>.
 <br><br>
 I have an undergraduate degree in mathematics from the University of Edinburgh; my BSc project can be found here:
 <br>
