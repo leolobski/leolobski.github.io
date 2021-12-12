@@ -11,7 +11,9 @@ The main purpose of this website is to contain my CV, which you can find <a href
 <b>Academic stuff</b>
 </h1>
 <p>
-I have a master's degree in <a href="https://msclogic.illc.uva.nl/">logic</a> from the <a href="http://www.illc.uva.nl/">Institute of Logic, Language and Computation</a> in Amsterdam, where I did the Logic and Mathematics track. My MSc thesis can be found at the ILLC website:
+Currently, I'm a PhD student in the <a href="http://pplv.cs.ucl.ac.uk/welcome/">Programming Principles, Logic and Verification</a> research group at the <a href="https://www.ucl.ac.uk/">University College London</a>.
+<br><br>
+I have a master's degree in <a href="https://msclogic.illc.uva.nl/">logic</a> from the <a href="http://www.illc.uva.nl/">Institute for Logic, Language and Computation</a> in Amsterdam, where I did the Logic and Mathematics track. My MSc thesis can be found at the ILLC website:
 <br>
 <a href="https://eprints.illc.uva.nl/1762/1/MoL-2020-09.text.pdf">Quantum quirks, classical contexts: Towards a Bohrification of effect algebras</a>;
 <br>
@@ -34,6 +36,16 @@ Other projects and mathematical writing:
 
 <br><br>
 <h1 style="text-align:left; font-size:110%;">
+<b>Talk recordings</b>
+</h1>
+<p>
+<a href="https://youtu.be/Orilw6ujWag">There and back again: A circuit extraction tale</a>. Presented at the <a href="https://www.monoidal.net/paris2020/qpl/index.html">17th International Conference on Quantum Physics and Logic (QPL) 2020</a>.
+<br>
+<a href="https://tubedu.org/videos/watch/f1ba3808-0fab-49fa-aabe-fb691e79cd93">Мечта о мыслящей машине: история идей, приведших к возникновению компьютера</a>. <i>Dream of a Thinking Machine: History of Ideas Leading to Emergence of Computing (in Russian).</i> Presented at <a href="http://ru.art-master.fi/">Art-Master</a>, a Russian culture centre in Jyväskylä, on 31st October 2021.
+</p>
+
+<br><br>
+<h1 style="text-align:left; font-size:110%;">
 <b>Writing</b>
 </h1>
 <p>
@@ -44,6 +56,7 @@ My essay was published in the second issue of the University of Edinburgh Philos
 <br>
 <a href="/files/Philosophy-Society-Journal-2017-18.pdf">Statistical Hypothesis Testing in the Context of Hume’s Critique of Induction</a>.
 <br>
+</p>
 
 <br><br>
 <h1 style="text-align:left; font-size:110%;">
