@@ -41,7 +41,7 @@ Other projects and mathematical writing:
 <p>
 <a href="https://youtu.be/Orilw6ujWag">There and back again: A circuit extraction tale</a>. Presented at the <a href="https://www.monoidal.net/paris2020/qpl/index.html">17th International Conference on Quantum Physics and Logic (QPL) 2020</a>.
 <br>
-<a href="https://tubedu.org/videos/watch/f1ba3808-0fab-49fa-aabe-fb691e79cd93">Мечта о мыслящей машине: история идей, приведших к возникновению компьютера</a>. <i>Dream of a Thinking Machine: History of Ideas Leading to Emergence of Computing (in Russian).</i> Presented at <a href="http://ru.art-master.fi/">Art-Master</a>, a Russian culture centre in Jyväskylä, on 31st October 2021.
+<a href="https://tubedu.org/videos/watch/f1ba3808-0fab-49fa-aabe-fb691e79cd93">Мечта о мыслящей машине: история идей, приведших к возникновению компьютера</a>. <i>Dream of a Thinking Machine: History of Ideas that Lead to the Emergence of Computing (in Russian).</i> Presented at <a href="http://ru.art-master.fi/">Art-Master</a>, a Russian culture centre in Jyväskylä, on 31st October 2021.
 </p>
 
 <br><br>
