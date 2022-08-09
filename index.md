@@ -42,6 +42,8 @@ Other projects and mathematical writing:
 <a href="https://youtu.be/Orilw6ujWag">There and back again: A circuit extraction tale</a>. Presented at the <a href="https://www.monoidal.net/paris2020/qpl/index.html">17th International Conference on Quantum Physics and Logic (QPL) 2020</a>.
 <br>
 <a href="https://tubedu.org/videos/watch/f1ba3808-0fab-49fa-aabe-fb691e79cd93">Мечта о мыслящей машине: история идей, приведших к возникновению компьютера</a>. <i>Dream of a Thinking Machine: History of Ideas that Lead to the Emergence of Computing (in Russian).</i> Presented at <a href="http://ru.art-master.fi/">Art-Master</a>, a Russian culture centre in Jyväskylä, on 31st October 2021.
+<br>
+<a href="https://youtu.be/iNdH_U-C1Nc?t=22803">String diagrams for layered explanations</a>. Presented at the <a href="https://msp.cis.strath.ac.uk/act2022/">5th International Conference on Applied Category Theory (ACT) 2022</a>, University of Strathclyde, Glasgow, Scotland.
 </p>
 
 <br><br>
@@ -75,8 +77,6 @@ My essay was published in the second issue of the University of Edinburgh Philos
 </h1>
 <p>
 <a href="https://golem.ph.utexas.edu/category/">The n-Category Café</a><br>
-<a href="https://johncarlosbaez.wordpress.com/">Azimuth</a><br>
 <a href="https://mathbabe.org/">mathbabe</a><br>
-<a href="https://reflectionsofanonirishman.wordpress.com/">Reflections of a Non-Irishman</a><br>
 <a href="http://edinburghsocietea.co.uk/">Edinburgh SocieTea</a>
 </p>
