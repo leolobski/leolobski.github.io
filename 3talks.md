@@ -13,7 +13,7 @@ permalink: /talks/
 <li><i>A categorical approach to synthetic chemistry.</i> <a href="https://ictac2023.compsust.utec.edu.pe/">International Colloquium on Theoretical Aspects of Computing, Universidad de Ingeniería y Tecnología (2023).</a></li>
 <li><i>Quantum quirks, classical contexts: Towards a Bohrification of effect algebras.</i> <a href="https://www.cl.cam.ac.uk/events/syco/10/">Tenth Symposium on Compositional Structures, University of Edinburgh (2022).</a> <a href="https://www.cl.cam.ac.uk/events/syco/10/slides/lobski.pdf">Slides</a></li>
 <li><i>String diagrams for layered explanations.</i> <a href="https://msp.cis.strath.ac.uk/act2022/">Applied Category Theory, University of Strathclyde (2022).</a> <a href="https://youtu.be/iNdH_U-C1Nc?t=22803">Recording</a> <a href="/files/ACT22-pres.pdf">Slides</a></li>
-<li><i>There and back again: A circuit extraction tale.</i> <a href="https://www.monoidal.net/paris2020/qpl/index.html">Quantum Physics and Logic (2020).</a> <a href="https://youtu.be/Orilw6ujWag">Recording</a></li>
+<li><i>There and back again: A circuit extraction tale.</i> <a href="https://www.monoidal.net/paris2020/qpl/index.html">Quantum Physics and Logic (2020).</a> <a href="https://youtu.be/Orilw6ujWag">Recording</a> <a href="/files/zx-gflow.pdf">Slides</a></li>
 </ul>
 
 
