@@ -25,8 +25,8 @@ permalink: /talks/
 <li><i>Towards functorial chemistry: completeness and universality for reaction representation.</i> University of Birmingham theoretical computer science seminar (2024). <a href="https://researchseminars.org/talk/TheoryCSBham/7/">Abstract</a></li>
 <li><i>String diagrams for layered structures.</i> <a href="https://t-powell.github.io/southern_logic_seminar/sls_bath.html">First Meeting of the Southern Logic Seminar, University of Bath (2023).</a></li>
 <li><i>String diagrams for layered structures.</i> <a href="https://events.illc.uva.nl/llama/">ILLC LLAMA Seminar, University of Amsterdam (2023).</a> <a href="/files/LLAMA-pres.pdf">Slides</a></li>
-<li><i>Partition functor for effect algebras</i>. Pure Mathematics Seminar, University of East Anglia (2022).</li>
-<li><i>Partition functor for effect algebras: a model of quantum measurements</i> <a href="http://pplv.cs.ucl.ac.uk/pplv_research_seminar/">PPLV Seminar, University College London (2021).</a></li>
+<li><i>Partition functor for effect algebras</i>. Pure Mathematics Seminar, University of East Anglia (2022). <a href="/files/UEAseminar.pdf">Slides</a></li>
+<li><i>Partition functor for effect algebras: a model of quantum measurements</i> <a href="http://pplv.cs.ucl.ac.uk/pplv_research_seminar/">PPLV Seminar, University College London (2021).</a> <a href="/files/PPLVseminar-effect.pdf">Slides</a></li>
 <li><i>Sheaves and étale bundles.</i> MSc Mathematics student seminar, University of Amsterdam (2019). <a href="/files/a-note-on-sheaves.pdf">Notes</a></li>
 </ul>
 
