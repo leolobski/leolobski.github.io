@@ -18,7 +18,7 @@ permalink: /papers/
 <b>Journal papers</b>
 </h1>
 <ul>
-<li><a href="https://doi.org/10.1016/j.tcs.2025.115084">A Categorical model for organic chemistry</a>, with Ella Gale and Fabio Zanasi. Theoretical Computer Science.</li>
+<li><a href="https://doi.org/10.1016/j.tcs.2025.115084">A Categorical model for organic chemistry</a>, with Ella Gale and Fabio Zanasi. Theoretical Computer Science (2025).</li>
 <li><a href="https://doi.org/10.22331/q-2021-03-25-421">There and back again: A circuit extraction tale</a>, with Miriam Backens, Hector Miller-Bakewell, Giovanni de Felice and John van de Wetering. Quantum 5, 421 (2021).</li>
 </ul>
 
