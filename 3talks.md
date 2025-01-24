@@ -13,7 +13,7 @@ permalink: /talks/
 <li><i>A categorical approach to synthetic chemistry.</i> <a href="https://ictac2023.compsust.utec.edu.pe/">International Colloquium on Theoretical Aspects of Computing, Universidad de Ingeniería y Tecnología (2023).</a></li>
 <li><i>Quantum quirks, classical contexts: Towards a Bohrification of effect algebras.</i> <a href="https://www.cl.cam.ac.uk/events/syco/10/">Tenth Symposium on Compositional Structures, University of Edinburgh (2022).</a> <a href="https://www.cl.cam.ac.uk/events/syco/10/slides/lobski.pdf">Slides</a></li>
 <li><i>String diagrams for layered explanations.</i> <a href="https://msp.cis.strath.ac.uk/act2022/">Applied Category Theory, University of Strathclyde (2022).</a> <a href="https://youtu.be/iNdH_U-C1Nc?t=22803">Recording</a> <a href="/files/ACT22-pres.pdf">Slides</a></li>
-<li><i>There and back again: A circuit extraction tale.</i> <a href="https://www.monoidal.net/paris2020/qpl/index.html">Quantum Physics and Logic (2020).</a> <a href="https://youtu.be/Orilw6ujWag">Recording</a></li>
+<li><i>There and back again: A circuit extraction tale.</i> <a href="https://www.monoidal.net/paris2020/qpl/index.html">Quantum Physics and Logic (2020).</a> <a href="https://youtu.be/Orilw6ujWag">Recording</a> <a href="/files/zx-gflow.pdf">Slides</a></li>
 </ul>
 
 
@@ -25,8 +25,8 @@ permalink: /talks/
 <li><i>Towards functorial chemistry: completeness and universality for reaction representation.</i> University of Birmingham theoretical computer science seminar (2024). <a href="https://researchseminars.org/talk/TheoryCSBham/7/">Abstract</a></li>
 <li><i>String diagrams for layered structures.</i> <a href="https://t-powell.github.io/southern_logic_seminar/sls_bath.html">First Meeting of the Southern Logic Seminar, University of Bath (2023).</a></li>
 <li><i>String diagrams for layered structures.</i> <a href="https://events.illc.uva.nl/llama/">ILLC LLAMA Seminar, University of Amsterdam (2023).</a> <a href="/files/LLAMA-pres.pdf">Slides</a></li>
-<li><i>Partition functor for effect algebras</i>. Pure Mathematics Seminar, University of East Anglia (2022).</li>
-<li><i>Partition functor for effect algebras: a model of quantum measurements</i> <a href="http://pplv.cs.ucl.ac.uk/pplv_research_seminar/">PPLV Seminar, University College London (2021).</a></li>
+<li><i>Partition functor for effect algebras</i>. Pure Mathematics Seminar, University of East Anglia (2022). <a href="/files/UEAseminar.pdf">Slides</a></li>
+<li><i>Partition functor for effect algebras: a model of quantum measurements</i> <a href="http://pplv.cs.ucl.ac.uk/pplv_research_seminar/">PPLV Seminar, University College London (2021).</a> <a href="/files/PPLVseminar-effect.pdf">Slides</a></li>
 <li><i>Sheaves and étale bundles.</i> MSc Mathematics student seminar, University of Amsterdam (2019). <a href="/files/a-note-on-sheaves.pdf">Notes</a></li>
 </ul>
 
