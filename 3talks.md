@@ -42,6 +42,7 @@ permalink: /talks/
 <b>Talks for the general audience</b>
 </h1>
 <ul>
-<li><i>Квантовая механика и картина мира. (Quantum mechanics and the worldview, in Russian).</i> <a href="http://ru.art-master.fi/">Art-Master</a>, Jyv&auml;skyl&auml;. 6 April 2024. <a href="/files/SmArtMa-2.pdf">Slides</a></li>
+<li><i>Формальная логика, часть первая. Классическая логика. (Formal Logic Part I: Classical Logic, in Russian).</i> <a href="http://ru.art-master.fi/">Art-Master</a>, Jyv&auml;skyl&auml;. 12 April 2025. <a href="/files/SmArtMa-3.pdf">Slides</a></li>
+<li><i>Квантовая механика и картина мира. (Quantum Mechanics and the Worldview, in Russian).</i> <a href="http://ru.art-master.fi/">Art-Master</a>, Jyv&auml;skyl&auml;. 6 April 2024. <a href="/files/SmArtMa-2.pdf">Slides</a></li>
 <li><i>Мечта о мыслящей машине: история идей, приведших к возникновению компьютера. (Dream of a Thinking Machine: History of Ideas that Lead to the Emergence of Computing, in Russian).</i> <a href="http://ru.art-master.fi/">Art-Master</a>, Jyv&auml;skyl&auml;. 31 October 2021. <a href="https://tubedu.org/videos/watch/f1ba3808-0fab-49fa-aabe-fb691e79cd93">Recording</a> <a href="/files/SmArtMa.pdf">Slides</a></li>
 </ul>

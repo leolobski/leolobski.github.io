@@ -5,7 +5,7 @@ permalink: /papers/
 ---
 
 <h1 style="text-align:left; font-size:110%;">
-<b>Conference papers</b>
+<b>Refereed conference publications</b>
 </h1>
 <ul>
 <li><a href="https://dx.doi.org/10.1007/978-3-031-77019-7_5">Learning closed signal flow graphs</a>, with Ekaterina Piotrovskaya and Fabio Zanasi. Theoretical Aspects of Computing &#8212; ICTAC (2024).</li>
@@ -15,7 +15,7 @@ permalink: /papers/
 </ul>
 
 <h1 style="text-align:left; font-size:110%;">
-<b>Journal papers</b>
+<b>Journal articles</b>
 </h1>
 <ul>
 <li><a href="https://doi.org/10.1016/j.tcs.2025.115084">A Categorical model for organic chemistry</a>, with Ella Gale and Fabio Zanasi. Theoretical Computer Science (2025).</li>
