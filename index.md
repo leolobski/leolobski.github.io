@@ -12,5 +12,5 @@ My research interests include category theory, its applications to the natural s
 The main purpose of this website is to contain my CV, which you can find <a href="/files/online-CV.pdf">here</a>. Nothing too exciting to be expected here.
 </p>
 <p align="right">
-<i>Last updated: 4 January 2025.</i>
+<i>Last updated: 1 June 2025.</i>
 </p>
