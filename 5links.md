@@ -10,7 +10,7 @@ permalink: /links/
 </ul>
 
 <h1 style="text-align:left; font-size:110%;">
-<b>Things I follow or recommend</b>
+<b>Things I follow or recommend (not up to date)</b>
 </h1>
 <ul>
 <li><a href="https://golem.ph.utexas.edu/category/">The n-Category Café</a></li>

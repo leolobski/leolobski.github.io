@@ -37,6 +37,7 @@ permalink: /papers/
 <b>Theses</b>
 </h1>
 <ul>
+<li><a href="https://arxiv.org/abs/2512.12139">Layered Monoidal Theories</a>, PhD thesis, supervised by <a href="http://zanasi.com/fabio/#/main.html">Fabio Zanasi</a>.</li>
 <li><a href="https://eprints.illc.uva.nl/1762/1/MoL-2020-09.text.pdf">Quantum quirks, classical contexts: Towards a Bohrification of effect algebras</a>, MSc thesis, co-supervised by <a href="http://homepages.inf.ed.ac.uk/cheunen/">Chris Heunen</a> and <a href="https://staff.fnwi.uva.nl/n.bezhanishvili/">Nick Bezhanishvili</a>.</li>
 <li><a href="/files/BSc-project.pdf">Sheaves on Topological Spaces and their Logic</a> BSc project, supervised by <a href="https://www.maths.ed.ac.uk/~tl/">Tom Leinster</a>.</li>
 </ul>

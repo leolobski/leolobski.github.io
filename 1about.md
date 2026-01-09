@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 <p>
-Currently, I'm a PhD student in the <a href="http://pplv.cs.ucl.ac.uk/welcome/">Programming Principles, Logic and Verification</a> research group at the <a href="https://www.ucl.ac.uk/">University College London</a>, supervised by <a href="http://zanasi.com/fabio/#/main.html">Fabio Zanasi</a>.
+Currently, I'm a Research Fellow in the <a href="http://pplv.cs.ucl.ac.uk/welcome/">Programming Principles, Logic and Verification</a> research group at the <a href="https://www.ucl.ac.uk/">University College London</a>. I'm working on a project lead by <a href="http://zanasi.com/fabio/#/main.html">Fabio Zanasi</a> and <a href="https://statusfailed.com/">Paul Wilson</a>.
+<br><br>
+I have a doctoral degree (2026) in Theoretical Computer Science from <a href="https://www.ucl.ac.uk/">University College London</a>.
 <br><br>
 I have a master's degree (2020) in <a href="https://msclogic.illc.uva.nl/">logic</a> from the <a href="http://www.illc.uva.nl/">Institute for Logic, Language and Computation</a> in Amsterdam, where I did the Logic and Mathematics track.
 <br><br>

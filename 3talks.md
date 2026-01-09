@@ -21,6 +21,7 @@ permalink: /talks/
 <b>Selected seminar talks</b>
 </h1>
 <ul>
+<li><i>An introduction to the ZX-calculus.</i> QInfo seminar, University College London (2025). <a href="/files/zx-pres.pdf">Slides</a></li>
 <li><i>Everything You Always Wanted to Formalise About Chemistry (But Were Afraid of the Reaction).</i> <a href="http://pplv.cs.ucl.ac.uk/pplv_research_seminar/">PPLV Seminar, University College London (2024).</a></li>
 <li><i>Towards functorial chemistry: completeness and universality for reaction representation.</i> University of Birmingham theoretical computer science seminar (2024). <a href="https://researchseminars.org/talk/TheoryCSBham/7/">Abstract</a></li>
 <li><i>String diagrams for layered structures.</i> <a href="https://t-powell.github.io/southern_logic_seminar/sls_bath.html">First Meeting of the Southern Logic Seminar, University of Bath (2023).</a></li>
