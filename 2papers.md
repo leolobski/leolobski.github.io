@@ -27,6 +27,8 @@ permalink: /papers/
 <b>Preprints</b>
 </h1>
 <ul>
+<li><a href="https://doi.org/10.48550/arXiv.2602.22373">Layered Monoidal Theories II: Fibrational Semantics</a>, with Fabio Zanasi.</li>
+<li><a href="https://doi.org/10.48550/arXiv.2602.19776">Layered Monoidal Theories I: Diagrammatic Algebra and Applications</a>, with Fabio Zanasi.</li>
 <li><a href="https://dx.doi.org/10.48550/arXiv.2407.00245">Learning closed signal flow graphs</a>, with Ekaterina Piotrovskaya and Fabio Zanasi.</li>
 <li><a href="https://dx.doi.org/10.48550/arXiv.2410.01421">Disconnection rules are complete for chemical reactions</a>, with Ella Gale and Fabio Zanasi.</li>
 <li><a href="https://dx.doi.org/10.48550/arXiv.2311.04085">A Categorical Model for Retrosynthetic Reaction Analysis</a>, with Ella Gale and Fabio Zanasi.</li>
