@@ -5,9 +5,12 @@ permalink: /talks/
 ---
 
 <h1 style="text-align:left; font-size:110%;">
-<b>Conference talks</b>
+<b>Conference and workshop talks</b>
 </h1>
 <ul>
+<li><i>Modulation-reaction networks.</i> Upcoming at <a href="https://arsr.inesc-id.pt/cmsb2026/">International Conference on Computational Methods in Systems Biology, Lisbon (2026).</a></li>
+<li><i>Towards a combinatorial representation of first-order bicategories.</i> Upcoming at <a href="https://dialoco.github.io/dialoco26/">DIALOCO, Lisbon (2026).</a></li>
+<li><i>Layered monoidal theories.</i> Upcoming at <a href="https://actconf2026.github.io/">Applied Category Theory, Tallinn (2026).</a> <a href="https://actconf2026.github.io/papers/ACT_2026_paper_57.pdf">Abstract</a></li>
 <li><i>Disconnection rules are complete for chemical reactions.</i> <a href="https://ictac2024.cs.ait.ac.th/">International Colloquium on Theoretical Aspects of Computing, Asian Institute of Technology (2024).</a> <a href="/files/ictac24-pres.pdf">Slides</a></li>
 <li><i>Disconnection rules are complete for chemical reactions.</i> <a href="https://oxford24.github.io/">Applied Category Theory, University of Oxford (2024).</a> <a href="https://youtu.be/JdeDkUE92Uo?">Recording</a></li>
 <li><i>A categorical approach to synthetic chemistry.</i> <a href="https://ictac2023.compsust.utec.edu.pe/">International Colloquium on Theoretical Aspects of Computing, Universidad de Ingeniería y Tecnología (2023).</a></li>

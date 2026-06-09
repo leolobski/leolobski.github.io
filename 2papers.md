@@ -16,7 +16,7 @@ permalink: /papers/
 <b>Refereed conference publications</b>
 </h1>
 <ul>
-<li>Modulation-reaction networks, with Yoàv Montacute. Computational Methods in Systems Biology (2026). To appear.</li>
+<li>Modulation-reaction networks, with Yoàv Montacute. Computational Methods in Systems Biology (2026). To appear. <a href="https://doi.org/10.48550/arXiv.2606.01193">Preprint</a></li>
 <li><a href="https://dx.doi.org/10.1007/978-3-031-77019-7_5">Learning closed signal flow graphs</a>, with Ekaterina Piotrovskaya and Fabio Zanasi. Theoretical Aspects of Computing &#8212; ICTAC (2024). <a href="https://dx.doi.org/10.48550/arXiv.2407.00245">Preprint</a></li>
 <li><a href="https://dx.doi.org/10.1007/978-3-031-77019-7_13">Disconnection rules are complete for chemical reactions</a>, with Ella Gale and Fabio Zanasi. Theoretical Aspects of Computing &#8212; ICTAC (2024). <a href="https://dx.doi.org/10.48550/arXiv.2410.01421">Preprint</a></li>
 <li><a href="https://dx.doi.org/10.1007/978-3-031-47963-2_17">A categorical approach to synthetic chemistry</a>, with Ella Gale and Fabio Zanasi. Theoretical Aspects of Computing &#8212; ICTAC (2023). <a href="https://dx.doi.org/10.48550/arXiv.2311.04085">Preprint</a></li>
