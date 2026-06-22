@@ -7,6 +7,7 @@ permalink: /links/
 <ul>
 <li><a href="https://orcid.org/0000-0002-0260-0240">ORCID</a></li>
 <li><a href="https://profiles.ucl.ac.uk/86223-leo-lobski/">UCL Profiles</a></li>
+<li><a href="https://leolob.ski/SMLS/smls15">15th Meeting of the Southern and Midlands Logic Seminar</a></li>
 </ul>
 
 <h1 style="text-align:left; font-size:110%;">
