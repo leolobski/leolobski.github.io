@@ -8,7 +8,7 @@ permalink: /talks/
 <b>Conference and workshop talks</b>
 </h1>
 <ul>
-<li><i>Modulation-reaction networks.</i> Upcoming at <a href="https://arsr.inesc-id.pt/cmsb2026/">International Conference on Computational Methods in Systems Biology, Lisbon (2026).</a></li>
+<li><i>Modulation-reaction networks.</i> <a href="https://arsr.inesc-id.pt/cmsb2026/">International Conference on Computational Methods in Systems Biology, Lisbon (2026).</a> <a href="/files/cmsb-jul26.pdf">Slides</a></li>
 <li><i>Towards a combinatorial representation of first-order bicategories.</i> <a href="https://dialoco.github.io/dialoco26/">DIALOCO, Lisbon (2026).</a> <a href="/files/dialoco26.pdf">Slides</a></li>
 <li><i>Categories with indexed monoids.</i> <a href="hhttps://categories-applications-and-foundations.github.io/cafe2026/">Categorical Applications and Foundations Exchange, Tallinn (2026).</a> <a href="https://categories-applications-and-foundations.github.io/cafe2026/#programme">Abstract</a></li>
 <li><i>Layered monoidal theories.</i> <a href="https://actconf2026.github.io/">Applied Category Theory, Tallinn (2026).</a> <a href="https://actconf2026.github.io/papers/ACT_2026_paper_57.pdf">Abstract</a> <a href="/files/lmts-act-jul26.pdf">Slides</a></li>
