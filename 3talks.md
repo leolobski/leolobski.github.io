@@ -40,6 +40,7 @@ permalink: /talks/
 <b>Posters</b>
 </h1>
 <ul>
+<li><a href="/files/poster-pssl26.pdf">Categories with indexed monoids.</a> <a href="https://sites.uclouvain.be/pssl113/index.html">113th Peripatetic Seminar on Sheaves and Logic, Louvain-la-Neuve (2026).</a></li>
 <li><a href="/files/act23-poster.pdf">A categorical approach to synthetic chemistry.</a> <a href="https://act2023.github.io/">Applied Category Theory, University of Maryland (2023).</a></li>
 </ul>
 
